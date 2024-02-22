@@ -2,4 +2,4 @@
 
 C = float(input("Temperatura em Celsius: "))
 F = C * 1.8 + 32
-print(F)
+print("A conversão em Fahrenheit é Fº:", F)
