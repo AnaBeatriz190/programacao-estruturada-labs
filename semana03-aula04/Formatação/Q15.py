@@ -2,4 +2,4 @@
 
 nome = input('Digite um nome: ')
 numero = int(input('Digite um número: '))
-
+print(nome*numero)
